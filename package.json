@@ -1,12 +1,10 @@
 {
     "name": "pomelo-logger",
-    "version": "0.1.7",
-    "private": false,
+    "version": "0.1.8",
+    "private": true,
     "dependencies": {
-        "log4js": "0.6.21"
+        "log4js": "3.0.6"
     },
     "devDependencies": {
-        "should": ">=0.0.1",
-        "mocha": ">=0.0.1"
     }
 }
